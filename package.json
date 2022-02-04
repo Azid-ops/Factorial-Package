@@ -1,0 +1,19 @@
+{
+  "name": "@azid-ops/fact",
+  "version": "1.0.0",
+  "description": "Find Factorial of a Number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azid-ops/Factorial-Package.git"
+  },
+  "author": "Azi-Ops",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Azid-ops/Factorial-Package/issues"
+  },
+  "homepage": "https://github.com/Azid-ops/Factorial-Package#readme"
+}
